@@ -1,0 +1,1 @@
+D:\VuDucManh\IT\Rust\Learn\target\debug\Learn.exe: D:\VuDucManh\IT\Rust\Learn\src\helloworld.rs D:\VuDucManh\IT\Rust\Learn\src\main.rs
