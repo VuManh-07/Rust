@@ -3,7 +3,8 @@
 // mod constant;
 // mod testenum;
 // mod scalartype;
-mod closures;
+// mod closures;
+mod teststruct;
 
 fn main() {
     // helloworld::hello();
@@ -11,5 +12,6 @@ fn main() {
     // constant::constant();
     // testenum::test_enum();
     // scalartype::test_scalartype();
-    closures::closures();
+    // closures::closures();
+    teststruct::teststruct();
 }
