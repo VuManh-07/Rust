@@ -1,1 +1,1 @@
-D:\VuDucManh\IT\Rust\Learn\target\debug\Learn.exe: D:\VuDucManh\IT\Rust\Learn\src\avarible.rs D:\VuDucManh\IT\Rust\Learn\src\constant.rs D:\VuDucManh\IT\Rust\Learn\src\helloworld.rs D:\VuDucManh\IT\Rust\Learn\src\main.rs D:\VuDucManh\IT\Rust\Learn\src\testenum.rs
+D:\VuDucManh\IT\Rust\Learn\target\debug\Learn.exe: D:\VuDucManh\IT\Rust\Learn\src\main.rs D:\VuDucManh\IT\Rust\Learn\src\scalartype.rs
