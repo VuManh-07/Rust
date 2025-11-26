@@ -4,7 +4,8 @@
 // mod testenum;
 // mod scalartype;
 // mod closures;
-mod teststruct;
+// mod teststruct;
+mod testtrait;
 
 fn main() {
     // helloworld::hello();
@@ -13,5 +14,6 @@ fn main() {
     // testenum::test_enum();
     // scalartype::test_scalartype();
     // closures::closures();
-    teststruct::teststruct();
+    // teststruct::teststruct();
+    testtrait::testtrait();
 }
